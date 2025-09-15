@@ -1,0 +1,4 @@
+# Añade ignores básicos
+Add-Content .gitignore "node_modules/"
+Add-Content .gitignore ".env"
+Add-Content .gitignore "dist/"
